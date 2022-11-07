@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Instituto Tecnológico de ciudad Jiménez</name>
+    <description>Oficinas y salones ubicados en cada edificio.</description>
+    <Style id="poly-006064-1-76-normal">
+      <LineStyle>
+        <color>ff646000</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c646000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-006064-1-76-highlight">
+      <LineStyle>
+        <color>ff646000</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c646000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-006064-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-006064-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-006064-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0097A7-1-76-normal">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4ca79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0097A7-1-76-highlight">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4ca79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0097A7-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0097A7-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0097A7-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-01579B-1-76-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-01579B-1-76-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-01579B-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-1-76-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-1-76-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-1A237E-1-76-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c7e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-1A237E-1-76-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c7e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-1A237E-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-1A237E-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-1A237E-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-3949AB-1-76-normal">
+      <LineStyle>
+        <color>ffab4939</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cab4939</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-3949AB-1-76-highlight">
+      <LineStyle>
+        <color>ffab4939</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cab4939</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-3949AB-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-3949AB-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-3949AB-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-1-76-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-1-76-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-795548-1-76-normal">
+      <LineStyle>
+        <color>ff485579</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c485579</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-795548-1-76-highlight">
+      <LineStyle>
+        <color>ff485579</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c485579</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-795548-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-795548-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-795548-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-880E4F-1-76-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c4f0e88</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-880E4F-1-76-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c4f0e88</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-880E4F-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-880E4F-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-880E4F-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-9C27B0-1-76-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cb0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-9C27B0-1-76-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cb0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-9C27B0-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-9C27B0-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-9C27B0-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-A52714-1-76-normal">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-A52714-1-76-highlight">
+      <LineStyle>
+        <color>ff1427a5</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c1427a5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-A52714-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-A52714-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-A52714-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-AFB42B-1-76-normal">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-AFB42B-1-76-highlight">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-AFB42B-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-AFB42B-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-AFB42B-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-1-76-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F57C00-1-76-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F9A825-1-76-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c25a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F9A825-1-76-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c25a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F9A825-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F9A825-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F9A825-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF5252-1-76-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF5252-1-76-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF5252-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF5252-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF5252-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFD600-1-76-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFD600-1-76-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFD600-1-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFD600-1-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFD600-1-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Salones</name>
+      <Placemark>
+        <name>Edificio E</name>
+        <description><![CDATA[<img src="https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/iqjkso067muii7d8l7dgpod438/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9kPjh6DqLI-LTFOw8XpC7y6nzVUGMBOrJQ6M5r-9Z3rUGeoA88laZdOz98P-tj4tek-s-w65DsRVa7OLSCU7FPvyaJb-T0qmU_vi00FJathjES2OkEathtEwglCtNtZk3QWivtdsY_-5ZOUcQf57tYOL_lzUgxrNsSQqeN3Dtb80PdYe-tM6CgdIYeJX7zaF7c?session=0&fife" height="200" width="auto" /><br><br>Segundo piso: A11, A12, A15, A16<br>Primer piso: A17, A18, A19, A20<br><br><img src="https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/2h3eopppeq8mabhppe4tbk046s/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9k9AemuKXnPXSnrp9VxBkFj1T7KO3pkzv7Q7DLjJnwjP4Cz2xbVJoYlThCEoCVsDDd9rxLxw5UEDLqdK_d8VF49bgaFyNpw89IxLHFoCHKW3JFsf6mT-SgKSh1hsfoL0Poukkk82eNpklx_sHKPBhaIJbwn7wPG3NkxPX7kgCjyilVPTzYcu6-wzsUd2nm1OEY?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#poly-0097A7-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/iqjkso067muii7d8l7dgpod438/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9kPjh6DqLI-LTFOw8XpC7y6nzVUGMBOrJQ6M5r-9Z3rUGeoA88laZdOz98P-tj4tek-s-w65DsRVa7OLSCU7FPvyaJb-T0qmU_vi00FJathjES2OkEathtEwglCtNtZk3QWivtdsY_-5ZOUcQf57tYOL_lzUgxrNsSQqeN3Dtb80PdYe-tM6CgdIYeJX7zaF7c?session=0&fife https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/2h3eopppeq8mabhppe4tbk046s/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9k9AemuKXnPXSnrp9VxBkFj1T7KO3pkzv7Q7DLjJnwjP4Cz2xbVJoYlThCEoCVsDDd9rxLxw5UEDLqdK_d8VF49bgaFyNpw89IxLHFoCHKW3JFsf6mT-SgKSh1hsfoL0Poukkk82eNpklx_sHKPBhaIJbwn7wPG3NkxPX7kgCjyilVPTzYcu6-wzsUd2nm1OEY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9081748,27.1107579,0
+                -104.9082043,27.110577,0
+                -104.9078033,27.1105257,0
+                -104.9077772,27.110706,0
+                -104.9081748,27.1107579,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio F Centro de computo</name>
+        <description><![CDATA[<img src="https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/pubioa2q3094q0vkioojbv5pc8/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9nQ24tWDcNmsT5gX4dMEoUC8G-gvaCkkHT3kkaiSyBhdKu-fSEd0DzRK88wRo68pJkgMX-fp3KH1Gy4HSIG8JKkUtxy_XH2WJq_ZfeADaoq0cp1VPYIhvkOMUdDqVsKCfF2ifwNH8Dqh2fx431kWybidtg3PfFU3uEEdNa0QAj5DLGcVmxk8riyfXrUn0iygbs?session=0&fife" height="200" width="auto" /><br><br>Segundo piso: F1<br>Primer piso: laboratorio de practicas.]]></description>
+        <styleUrl>#poly-558B2F-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/pubioa2q3094q0vkioojbv5pc8/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9nQ24tWDcNmsT5gX4dMEoUC8G-gvaCkkHT3kkaiSyBhdKu-fSEd0DzRK88wRo68pJkgMX-fp3KH1Gy4HSIG8JKkUtxy_XH2WJq_ZfeADaoq0cp1VPYIhvkOMUdDqVsKCfF2ifwNH8Dqh2fx431kWybidtg3PfFU3uEEdNa0QAj5DLGcVmxk8riyfXrUn0iygbs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.907776,27.1111031,0
+                -104.9077948,27.1108882,0
+                -104.9075092,27.1108631,0
+                -104.9074797,27.111084,0
+                -104.907776,27.1111031,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio G Cafeteria</name>
+        <description><![CDATA[<img src="https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/pg2fuekf8fi6qg6439heu6idm4/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9la5hykjnuzRA5obhg95xeXW49enNjBLVcT6Ja0IIlihEJzIRgtidlmZVNdWvks-KExSAZ7oqaDI0pC0eY9mpG8zEZRX6svsYsbTdyqvl6TaUhQvXQcLE8e7lMcFur0wsME6meuzAihYKLFVQFOIsTQbrX7nfRYUCLdoQv8hSH32OpJeSlNFJVrMRzEeAQ1m9E?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#poly-F9A825-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/pg2fuekf8fi6qg6439heu6idm4/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9la5hykjnuzRA5obhg95xeXW49enNjBLVcT6Ja0IIlihEJzIRgtidlmZVNdWvks-KExSAZ7oqaDI0pC0eY9mpG8zEZRX6svsYsbTdyqvl6TaUhQvXQcLE8e7lMcFur0wsME6meuzAihYKLFVQFOIsTQbrX7nfRYUCLdoQv8hSH32OpJeSlNFJVrMRzEeAQ1m9E?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9076498,27.1104654,0
+                -104.9076726,27.1102828,0
+                -104.907564,27.1102708,0
+                -104.9075425,27.1104582,0
+                -104.9076498,27.1104654,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio H Biblioteca</name>
+        <description><![CDATA[<img src="https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/lk1mh82su5i2ue0kiicveo3jkg/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9nm28CU74rixDmbWKpXE8AKLoe1DYwegxy-b11Opx8tWCh2EkEbWj3k1sVkrup5B-LXAKkCSxFNHkPQ2wnpZQvgnkAE30YcT06keQJQoWLHuHmlEpU9O45FzxYzJwuVggdvqZMD77JI6HcuDz5bP-VcSZ85y6DhENz-Mxhlfl4pwfF8bBrpQDLHJSsNWuJ081I?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#poly-795548-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/lk1mh82su5i2ue0kiicveo3jkg/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9nm28CU74rixDmbWKpXE8AKLoe1DYwegxy-b11Opx8tWCh2EkEbWj3k1sVkrup5B-LXAKkCSxFNHkPQ2wnpZQvgnkAE30YcT06keQJQoWLHuHmlEpU9O45FzxYzJwuVggdvqZMD77JI6HcuDz5bP-VcSZ85y6DhENz-Mxhlfl4pwfF8bBrpQDLHJSsNWuJ081I?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9072222,27.1110335,0
+                -104.9072611,27.1107506,0
+                -104.9068601,27.1107017,0
+                -104.9068158,27.1109834,0
+                -104.9072222,27.1110335,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio J IGE Industrial</name>
+        <description><![CDATA[<img src="https://doc-0c-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/qe15aesk1atvsrkaf1edq1a0io/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9nMky-vv_Hoje5QgQQtYq-oyKLr9s3LQjFh_5lzRT_jyWtucI_ZifSdmR0d0Jf3Ihj8-bqFo5U_x6PR9O3iAiE1SNqGOIj_QTD_7nDBtyiW0v7a1tjH7BjruX3DNShzWQk0ruzzkLySZuq1MbxHjyM_cPn8EYIBgPL79tsH00sYI5ugC512cWz2DnRZxZ9RPaE?session=0&fife" height="200" width="auto" /><br><br>Educación a distancia, sala interactiva, laboratorio de computo, sistema integral de manufactura, estudio del trabajo, ergonomia, cubículos.<br><br><img src="https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/nq3rtl2p34uqr510epmfuajenk/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9lbNqfahN2rIsh9sni3cLIWy4FLktdAxc41X2RRMI6cqWnJquA4YI-QAaOW2P90iZH1_WDmAACOyZg7NYitifeB7NS0Qi-ho1NHTSmcdCEOUdjEl_1IMAroB1sTaia5q5fnbPmaPtrMeE5d8WrUA5gyp0jzJT3dWFjA2G7yBSpk7tl0J6f5lru3OWVnNcwYWEU?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#poly-097138-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/qe15aesk1atvsrkaf1edq1a0io/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9nMky-vv_Hoje5QgQQtYq-oyKLr9s3LQjFh_5lzRT_jyWtucI_ZifSdmR0d0Jf3Ihj8-bqFo5U_x6PR9O3iAiE1SNqGOIj_QTD_7nDBtyiW0v7a1tjH7BjruX3DNShzWQk0ruzzkLySZuq1MbxHjyM_cPn8EYIBgPL79tsH00sYI5ugC512cWz2DnRZxZ9RPaE?session=0&fife https://doc-04-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/nq3rtl2p34uqr510epmfuajenk/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9lbNqfahN2rIsh9sni3cLIWy4FLktdAxc41X2RRMI6cqWnJquA4YI-QAaOW2P90iZH1_WDmAACOyZg7NYitifeB7NS0Qi-ho1NHTSmcdCEOUdjEl_1IMAroB1sTaia5q5fnbPmaPtrMeE5d8WrUA5gyp0jzJT3dWFjA2G7yBSpk7tl0J6f5lru3OWVnNcwYWEU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9073154,27.1102483,0
+                -104.9073502,27.11,0
+                -104.9070291,27.1099583,0
+                -104.9069902,27.1102077,0
+                -104.9073154,27.1102483,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio K Electromecánica</name>
+        <description><![CDATA[<img src="https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/jfrqehpuippefr7vim86b0jkhg/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9n8XQOVurpwONGmUMFAL4LrtG08XRhENFMooxHKQjyV9CDAbzS6fDgd_MhPNMSViLS28aqql06re0FqGBzBe5dprS20ikKUwMZTG-7PsFX66B0MGPDrW0pIqOlLC5p8iHQj22vAYvj5g0xxatsMPIk83MBBWwtIxmyW4Skenu8A9pLCKaUvWh6Q1umGrWk4cL0?session=0&fife" height="200" width="auto" /><br><br>, laboratorio ciencias básicas, laboratorio sistema modular, laboratorio plc, laboratorio maquinas eléctricas.]]></description>
+        <styleUrl>#poly-006064-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/jfrqehpuippefr7vim86b0jkhg/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9n8XQOVurpwONGmUMFAL4LrtG08XRhENFMooxHKQjyV9CDAbzS6fDgd_MhPNMSViLS28aqql06re0FqGBzBe5dprS20ikKUwMZTG-7PsFX66B0MGPDrW0pIqOlLC5p8iHQj22vAYvj5g0xxatsMPIk83MBBWwtIxmyW4Skenu8A9pLCKaUvWh6Q1umGrWk4cL0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9069171,27.1106482,0
+                -104.9069568,27.1104066,0
+                -104.9066683,27.1103653,0
+                -104.9066287,27.1106184,0
+                -104.9069171,27.1106482,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio L</name>
+        <description><![CDATA[<img src="https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/4jetp3ihr0rp4v5eeb66m798do/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9lOASDG8TqrNt7skRy7WvjxNFUF2-jArGj7xkDewLFLNTaxGvepsxh7z58FiX3jhLATt5Crr48uxNw8fJVSg8w5MzHUdTMXo8kzd_uzWWbHVh_AVtj--P7hJu6K-jTkXq98H2ecUn1JfYNB3HVeS2TXWsenfS5z8ppYqulRJrWOw6GjasNtSZ_4cfPZIFPbWlA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#poly-FFD600-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/4jetp3ihr0rp4v5eeb66m798do/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9lOASDG8TqrNt7skRy7WvjxNFUF2-jArGj7xkDewLFLNTaxGvepsxh7z58FiX3jhLATt5Crr48uxNw8fJVSg8w5MzHUdTMXo8kzd_uzWWbHVh_AVtj--P7hJu6K-jTkXq98H2ecUn1JfYNB3HVeS2TXWsenfS5z8ppYqulRJrWOw6GjasNtSZ_4cfPZIFPbWlA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9068346,27.1113848,0
+                -104.9068507,27.1112607,0
+                -104.9066683,27.111232,0
+                -104.9066495,27.1113609,0
+                -104.9068346,27.1113848,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Gimnasio</name>
+        <description><![CDATA[<img src="https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/2rlo0j0bgd7sph3ik9jfsrf8es/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9kgT7bGI4RlUByXQrlPINGczy7EA9HxDJkhDw7Whu-5M-JaIq2lk5RUZA0XRhbMRFZ9OljpQ25j3FbYmkw4iEATfkfGtfoJQs2loQo9Lg5MANEV0RuzTjp1Jbs_DrviCwReivGWU1gRR_SLPaTSVaVOLme0wF3TtrvYjRK-DnTKzOwBEyrHcE8Gor9CFHIwu3A?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#poly-F57C00-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/2rlo0j0bgd7sph3ik9jfsrf8es/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9kgT7bGI4RlUByXQrlPINGczy7EA9HxDJkhDw7Whu-5M-JaIq2lk5RUZA0XRhbMRFZ9OljpQ25j3FbYmkw4iEATfkfGtfoJQs2loQo9Lg5MANEV0RuzTjp1Jbs_DrviCwReivGWU1gRR_SLPaTSVaVOLme0wF3TtrvYjRK-DnTKzOwBEyrHcE8Gor9CFHIwu3A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.908152,27.1101482,0
+                -104.9081868,27.1099787,0
+                -104.9080688,27.10995,0
+                -104.908034,27.1101219,0
+                -104.908152,27.1101482,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio C</name>
+        <description><![CDATA[<img src="https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/efi2k41n60vchhgqfk7umkalfs/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9kqOhG_SYMd7IuGiXImSeLtK1A5Bn-Gu0RzwGm0Xyc79-6dGJA7ehWTfjaR2nbdbT9qT8H1nWUmouEh5ko7DVA5AO-JU1fLMJywBd_WDJi2SlAiexQKsUFMVlYN8jZDpa7DpNXqHi6o3DVFtzK1IYaUnaMV5H2aNprjKVtv9wYYdsfro8B33HAMqMoDkZy2MFE?session=0&fife" height="200" width="auto" /><br><br>Gestion, extraescolares, sociedad de alumnos]]></description>
+        <styleUrl>#poly-AFB42B-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-78-mymaps.googleusercontent.com/untrusted/hostedimage/a0jlhf8v2ktia65aubta5t5jbk/efi2k41n60vchhgqfk7umkalfs/1667334181500/uadqWm5dN5xIAFuo3VURtM3Xft9MTIiN/15021015918969172897/5AKgB-9kqOhG_SYMd7IuGiXImSeLtK1A5Bn-Gu0RzwGm0Xyc79-6dGJA7ehWTfjaR2nbdbT9qT8H1nWUmouEh5ko7DVA5AO-JU1fLMJywBd_WDJi2SlAiexQKsUFMVlYN8jZDpa7DpNXqHi6o3DVFtzK1IYaUnaMV5H2aNprjKVtv9wYYdsfro8B33HAMqMoDkZy2MFE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9086664,27.1104698,0
+                -104.9086891,27.1103328,0
+                -104.908277,27.1102888,0
+                -104.9082606,27.1104242,0
+                -104.9086664,27.1104698,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Oficinas</name>
+      <Placemark>
+        <name>Edificio C</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5EkgzSaH8YkIdPYjlOgj3PSj4AgCdyv9sJ6U7Ykr0YPrO_vuomble4H1fzn1T1NI6HQfTFYzrIvQocsl45aeZA_VEJnYkrw_Kp6BQgyHZeyghgZFBeSj91wrdxHF23Az9UVj8gYd4Y6OOEiUjSk8PNKPIKuUScI2VOPcE-PfSQuQljcJrhl-xubmaF-2T_PCu9l_eC0LbV22EIoZLm8vvuRNKTJCgFRfhhkntllpJ1wdZ7MdW4uiGJQG1VJAbuOEZph45u4rtjX3gRVLI5z6I8sfWiTaPW0rl0zo3Y23zg_FZxJZ3_anu12FczYgNkgTdZ0uz5H8PC7hVYxeHmL0j2PHRy9I_emtwnw1ZGlqEMc9lKO6zohEBxVGThN6vo9-4eDCeb0zW9o3ehsNJAXivUXQDs27AM940-1TZqFYZolU76W-f0qc4jTrYvTOFvH7O8n8zDyoVmdfeCc56GI0bxJKnR0colsnOf0-wTtCnnHW25m-S6Ix8V-FD6LjF5pVGgzFmW0_tS77Et0K19Y4Ahpg7yvhkL17sgLexe8-R4picmHrv0F_Z10yeCXu-T1bHL-PSw1GmQyaOO8hciNzd9V2aO26YhWWDcT6TnTYZNYKCJ3ZTPxDSUU99rDh6LT8f1-xcKAqpuyidofZlz-UBoEs3l2RSb7WbPO4ZAT1qVL00cxMns1AH6hFQ9NS9dBeuviPYFNz3w_caLgmFXFf1ANgMez7oEWhyBRvypfrtYVrF88S3H_wn6BOXtRlK9AHcrCbSe1BPlJMTQJU06y2tBfQo-UjsYSDOMAHQ5Qz1cOeZsoKngZJS5bkZ-9x0pmQPE3LSvadddO9DKxOKlfKo9KMI2fP0" height="200" width="auto" /><br><br>Primer piso: <br>8 a.m. - 3 p.m. Gestion <br>8 a.m. - 1 p.m. / 4 p.m. - 6 p.m. Extraescolares <br>S/H Sociedad de alumnos]]></description>
+        <styleUrl>#poly-9C27B0-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5EkgzSaH8YkIdPYjlOgj3PSj4AgCdyv9sJ6U7Ykr0YPrO_vuomble4H1fzn1T1NI6HQfTFYzrIvQocsl45aeZA_VEJnYkrw_Kp6BQgyHZeyghgZFBeSj91wrdxHF23Az9UVj8gYd4Y6OOEiUjSk8PNKPIKuUScI2VOPcE-PfSQuQljcJrhl-xubmaF-2T_PCu9l_eC0LbV22EIoZLm8vvuRNKTJCgFRfhhkntllpJ1wdZ7MdW4uiGJQG1VJAbuOEZph45u4rtjX3gRVLI5z6I8sfWiTaPW0rl0zo3Y23zg_FZxJZ3_anu12FczYgNkgTdZ0uz5H8PC7hVYxeHmL0j2PHRy9I_emtwnw1ZGlqEMc9lKO6zohEBxVGThN6vo9-4eDCeb0zW9o3ehsNJAXivUXQDs27AM940-1TZqFYZolU76W-f0qc4jTrYvTOFvH7O8n8zDyoVmdfeCc56GI0bxJKnR0colsnOf0-wTtCnnHW25m-S6Ix8V-FD6LjF5pVGgzFmW0_tS77Et0K19Y4Ahpg7yvhkL17sgLexe8-R4picmHrv0F_Z10yeCXu-T1bHL-PSw1GmQyaOO8hciNzd9V2aO26YhWWDcT6TnTYZNYKCJ3ZTPxDSUU99rDh6LT8f1-xcKAqpuyidofZlz-UBoEs3l2RSb7WbPO4ZAT1qVL00cxMns1AH6hFQ9NS9dBeuviPYFNz3w_caLgmFXFf1ANgMez7oEWhyBRvypfrtYVrF88S3H_wn6BOXtRlK9AHcrCbSe1BPlJMTQJU06y2tBfQo-UjsYSDOMAHQ5Qz1cOeZsoKngZJS5bkZ-9x0pmQPE3LSvadddO9DKxOKlfKo9KMI2fP0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.9086664,27.1104698,0
+                -104.9086891,27.1103328,0
+                -104.908277,27.1102888,0
+                -104.908261,27.110424,0
+                -104.9086664,27.1104698,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio E</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4jt93bvwV3aZKe9BQf6F9AhUeGkcDTbhSBADL8g_wnPqZ-IGgvD8yB9egpIBhSFFMW-P1l49jBvuVA-Ct8uE8fD1qc1lS0WdWU2_3lyBCvIlwDvfYPXI4rERg7S8QC5M65SRtHmVYuoCjUghxEqSiISR3lWq5a2wEQKBN9GJS1KLNtjlpgRJRVJPgzx2oMEmlWZLkiHwKZVjP9mbe4SsJjbMGBQ46FlkNyJ9D1mUsOMKJRKIpCa15bDMmoeWl1GIXHp2jLmDAkDyNUjYWcJJe-Buq1aMRmEb20xkZ-3SvCr5aaMSyrz-kVA-KpDuxWhSbPTjbk72wNDkvAQ5rQniMbpJ0jKYJKZpT0T9qBWH9L6Hf6glhgUGB5-GP-FpMaTz3IHxTyF3KNVo9Mw7uoU_-tFN5KGKRAmPhXAlZ3XhhWVmeRK8ibnE9N4Of8EocoChgj1xIWD5XWjWQ7fU-8elQy6n7DfuNbeozjd6-NbK7LT5e8Uy0B2vCiCXnzuTHTzulKyxiwqNQ3xsH8gjSTSrTBhcQk7YIn3qqucLAER3dk_98Gc77x8WmaRxrWE5dUVrvVyry4g3n34twAST1s8Cdymk9M27FBs0i0dzwA5_C4Oxzkh9XSzADK74T_kyeTLTj9aWIG6BKuQ0Q3mg_gcmQCND6wVzT4Kl2PtBPTKUNFybN47OusA19Q6o2Ox6HcuDvv197RjWWdtNZQIKaSIqdBGZySsU394Vt6Lco5wxmfooMbWQG3KL5fITRTrhsv9uCeoPGWsKlMvWbVEbhRFI4tzvfiSxwqRhR-uweWiwa-WgTHfk7Tf2xScjFQ56fZaLskI9AwR7l0OQkFAsGL3WqnWoDQv9Y" height="200" width="auto" /><br><br>Segundo piso: <br>7 a.m. - 2 p.m. Recursos financieros<br>7 a.m. - 2 p.m. Recursos materiales<br>8 a.m. - 2 p.m. Recursos humanos<br>8 a.m. - 3 p.m. Planeación<br>8 a.m. - 2 p.m. / 3 p.m. - 5 p.m. Desarrollo académico<br>10 a.m. - 2 p.m. / 4 p.m. - 6 p.m. Subdirección <br>10 a.m. - 2 p.m. / 4 p.m. - 6 p.m. Dirección<br>S/H Prefectura<br>S/H Recepción<br>S/H Sala de juntas<br><br>Primer piso: <br>8 a.m. - 2 p.m. Comunicación y difusión<br>S/H sindicato <br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW4Tpb4j3tovJPNeXQKoHoJTZlzyFJvjvkdL4NeufyILYLmdBmsRxWhja0yBYCvOcWfjNwQ1OYEN__ZPEuX1lIVCbQrfUOO7-8seMLzbVuf2nlK5P6kFwV64uQCnUdVTyGP0E5mynZNNBgrEGsEsxgp1e0gmd-l17JHbzfJsbneanZAhZXKwQoX8nlTFuwVmgTcq2Bi7vPyztdPy8k0N4wwL-vG-11lCQvFXmpUZXphMkIxl1boESX27RZcv1MdP-Rn9gl_keDOh2yOIkEwnaFhUkupGM1LqlA6ztQEF2GIfLEKu-98WXUKWU_GAiO1gDvxOP3xKZutXumTcYH5vY_y1kvwvzK2rVHfO7DJ6HGDgijL1y10PJAnDpC0lQKcUyOHHURAU99IjUOzxNRJJUXaZPu0nq3Z8VBex9-_bD_F2l0II2nlzZMMOm05gbwgEGaVGs4au3-8gA8KkH-XJLY11RAjcYsMz7RoTMD9Bpuf1LayDsFybHWf83Hr_np2YsvFbPX8zeXcKgmM-C1cmEdS-ZCyz4Db6veSKs_I55HU2LuN6boXL7Fp5luBzRLhTqg_Sk6gVXFtNS9xfzYI7jHaUOIbrShLZ8j8dKwXltDGuNJReZJhD1ECPHtbzpsrMBAeo02mF35zFGtjMbMgSA592_gGXfc7p-fjPIvKaQ_YAiOm9_6YK5KP0C56FijPIvYBpOaj76rb4m7Lefark73LIJqSWwWuGSu9liMtuYdxvTJfK_Nkk1ttzP3cxIZiYDSuTw-rPvLUjwk7CKyJBvkA6qwdDHH0rJ2J_-wuFJHsXKH0wbL2XKZZUtdfjZ6MPVB7Xrhr6kSy4N_rbVi3BK2V-BCV7S64" height="200" width="auto" />]]></description>
+        <styleUrl>#poly-A52714-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4jt93bvwV3aZKe9BQf6F9AhUeGkcDTbhSBADL8g_wnPqZ-IGgvD8yB9egpIBhSFFMW-P1l49jBvuVA-Ct8uE8fD1qc1lS0WdWU2_3lyBCvIlwDvfYPXI4rERg7S8QC5M65SRtHmVYuoCjUghxEqSiISR3lWq5a2wEQKBN9GJS1KLNtjlpgRJRVJPgzx2oMEmlWZLkiHwKZVjP9mbe4SsJjbMGBQ46FlkNyJ9D1mUsOMKJRKIpCa15bDMmoeWl1GIXHp2jLmDAkDyNUjYWcJJe-Buq1aMRmEb20xkZ-3SvCr5aaMSyrz-kVA-KpDuxWhSbPTjbk72wNDkvAQ5rQniMbpJ0jKYJKZpT0T9qBWH9L6Hf6glhgUGB5-GP-FpMaTz3IHxTyF3KNVo9Mw7uoU_-tFN5KGKRAmPhXAlZ3XhhWVmeRK8ibnE9N4Of8EocoChgj1xIWD5XWjWQ7fU-8elQy6n7DfuNbeozjd6-NbK7LT5e8Uy0B2vCiCXnzuTHTzulKyxiwqNQ3xsH8gjSTSrTBhcQk7YIn3qqucLAER3dk_98Gc77x8WmaRxrWE5dUVrvVyry4g3n34twAST1s8Cdymk9M27FBs0i0dzwA5_C4Oxzkh9XSzADK74T_kyeTLTj9aWIG6BKuQ0Q3mg_gcmQCND6wVzT4Kl2PtBPTKUNFybN47OusA19Q6o2Ox6HcuDvv197RjWWdtNZQIKaSIqdBGZySsU394Vt6Lco5wxmfooMbWQG3KL5fITRTrhsv9uCeoPGWsKlMvWbVEbhRFI4tzvfiSxwqRhR-uweWiwa-WgTHfk7Tf2xScjFQ56fZaLskI9AwR7l0OQkFAsGL3WqnWoDQv9Y https://lh3.googleusercontent.com/umsh/AK26PW4Tpb4j3tovJPNeXQKoHoJTZlzyFJvjvkdL4NeufyILYLmdBmsRxWhja0yBYCvOcWfjNwQ1OYEN__ZPEuX1lIVCbQrfUOO7-8seMLzbVuf2nlK5P6kFwV64uQCnUdVTyGP0E5mynZNNBgrEGsEsxgp1e0gmd-l17JHbzfJsbneanZAhZXKwQoX8nlTFuwVmgTcq2Bi7vPyztdPy8k0N4wwL-vG-11lCQvFXmpUZXphMkIxl1boESX27RZcv1MdP-Rn9gl_keDOh2yOIkEwnaFhUkupGM1LqlA6ztQEF2GIfLEKu-98WXUKWU_GAiO1gDvxOP3xKZutXumTcYH5vY_y1kvwvzK2rVHfO7DJ6HGDgijL1y10PJAnDpC0lQKcUyOHHURAU99IjUOzxNRJJUXaZPu0nq3Z8VBex9-_bD_F2l0II2nlzZMMOm05gbwgEGaVGs4au3-8gA8KkH-XJLY11RAjcYsMz7RoTMD9Bpuf1LayDsFybHWf83Hr_np2YsvFbPX8zeXcKgmM-C1cmEdS-ZCyz4Db6veSKs_I55HU2LuN6boXL7Fp5luBzRLhTqg_Sk6gVXFtNS9xfzYI7jHaUOIbrShLZ8j8dKwXltDGuNJReZJhD1ECPHtbzpsrMBAeo02mF35zFGtjMbMgSA592_gGXfc7p-fjPIvKaQ_YAiOm9_6YK5KP0C56FijPIvYBpOaj76rb4m7Lefark73LIJqSWwWuGSu9liMtuYdxvTJfK_Nkk1ttzP3cxIZiYDSuTw-rPvLUjwk7CKyJBvkA6qwdDHH0rJ2J_-wuFJHsXKH0wbL2XKZZUtdfjZ6MPVB7Xrhr6kSy4N_rbVi3BK2V-BCV7S64</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.908175,27.110758,0
+                -104.908204,27.110577,0
+                -104.907803,27.110526,0
+                -104.907777,27.110706,0
+                -104.908175,27.110758,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio F Centro de computo</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW5x8gMusG2tsMqu29DpQT-j7bKVKG48CtHr-EKH8Tx8ebIeMd8L8NeXnON2aaowpu2-hFflrow4mEGkMAv9Y_Cqa4iN8JBNXtmuF-8n0A39XfgNvSgAOM7cUOYoQiP3KDFp2TpescSwxSZWqDZ-F5mtWz4B3oPdUWJT1HUJ46QKtktSgAaBA2HWI9gUIfXBKLACNs92cgcrsSGvZgGO45r9PRxTKtM3MSRUeLYk36cQH6dWxTSHqlTfFDvuWb-h8OlBYKkEPmpS8YQfSGKAShnv2pYjuD4oeuX25fIANOUpoYC_M3HND6KdAIlFk26HJ49fdunlgbpBcipqaX74M3PN1W7ZKQIUHZJfhnh9UBkL6LWSaD710bjLdJIeX_Pi74wCQQi0zbJ8wREtRnqYqrPeUb_HNXqYTicnSwyTbWE50RwkiGO0s4XwNtmAz9WE0u4rn-68e_faLK6jqslIDW4klZMQSL4xAD9bKHqgnL1F0iiNSiSkBfLb6T4-ACyQXE2DfAlwaV_Q8IIWRnKWtjemQaKBxp8Xr6AM46m6MfXiJPC3Jc3TJZNt7ZaIBSFyrsuZ0OAPRY1lfebwQcd2MQ8EBQC-YpotTQRfPM-x38iez7DLm-hIGst_QrUCsakX2KLg_H1wlRnlQNPyv3M56Vr53Mgz05MUa_wuQoLeHBRbGaEki8SE1NYpGZfu3Y2ai0EorQSZ8WlpYKiyV0EZ8qHsBwQS9WLSRsKQEKxowFH2hJRf186l4105C3r4HWtwDy6_MqTe0u6VfgXUhm_I85RLquo7ZcNDRFMKG_4UX4NS3QMN7r4KconW-azinmtXZASqgCWO1EexhdPllhuZB3S-DfQC3u1T" height="200" width="auto" /><br><br>Segundo piso: <br>8 a.m. - 1 p.m Departamento centro de computo<br>8 a.m. - 2 p.m. División de estudios<br>8 a.m. - 2 p.m. Economico administrativas<br>8 a.m. - 3 p.m. Servicios escolares<br>9 a.m. - 2 p.m. /  3 p.m. - 5 p.m. Departamento de sistemas<br>S/H Educación a distancia]]></description>
+        <styleUrl>#poly-01579B-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW5x8gMusG2tsMqu29DpQT-j7bKVKG48CtHr-EKH8Tx8ebIeMd8L8NeXnON2aaowpu2-hFflrow4mEGkMAv9Y_Cqa4iN8JBNXtmuF-8n0A39XfgNvSgAOM7cUOYoQiP3KDFp2TpescSwxSZWqDZ-F5mtWz4B3oPdUWJT1HUJ46QKtktSgAaBA2HWI9gUIfXBKLACNs92cgcrsSGvZgGO45r9PRxTKtM3MSRUeLYk36cQH6dWxTSHqlTfFDvuWb-h8OlBYKkEPmpS8YQfSGKAShnv2pYjuD4oeuX25fIANOUpoYC_M3HND6KdAIlFk26HJ49fdunlgbpBcipqaX74M3PN1W7ZKQIUHZJfhnh9UBkL6LWSaD710bjLdJIeX_Pi74wCQQi0zbJ8wREtRnqYqrPeUb_HNXqYTicnSwyTbWE50RwkiGO0s4XwNtmAz9WE0u4rn-68e_faLK6jqslIDW4klZMQSL4xAD9bKHqgnL1F0iiNSiSkBfLb6T4-ACyQXE2DfAlwaV_Q8IIWRnKWtjemQaKBxp8Xr6AM46m6MfXiJPC3Jc3TJZNt7ZaIBSFyrsuZ0OAPRY1lfebwQcd2MQ8EBQC-YpotTQRfPM-x38iez7DLm-hIGst_QrUCsakX2KLg_H1wlRnlQNPyv3M56Vr53Mgz05MUa_wuQoLeHBRbGaEki8SE1NYpGZfu3Y2ai0EorQSZ8WlpYKiyV0EZ8qHsBwQS9WLSRsKQEKxowFH2hJRf186l4105C3r4HWtwDy6_MqTe0u6VfgXUhm_I85RLquo7ZcNDRFMKG_4UX4NS3QMN7r4KconW-azinmtXZASqgCWO1EexhdPllhuZB3S-DfQC3u1T</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.907776,27.111103,0
+                -104.907795,27.110888,0
+                -104.907509,27.110863,0
+                -104.90748,27.111084,0
+                -104.907776,27.111103,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio G Cafeteria</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW40vxf8YfjmtfAc83MlebxAwGNXGj7SBQltHe0nR6pxY9PwtRqAy6_FPOGSYgiIAEUypY0Hg1bGvb6YiM1GSqTGXjwBw-EznnN-NY_izPs096CsPuWFBoIa3evoUGkwqee10H6jldLrlBl28Tkv1CJuOls_FbgzLX22nQF6q_REybIJIxkqnXfRsx2rwLeXNMOyHPXZifIigwQ56rrexROyqkbcuxKrKYwYGC-eycKS91HiV2elqdLKTF42NJH1Fxcb1n9voD41_8MBMw0aWvi-3ZjyXYvXDjBPFbfepc4enFAiftJ5-p7r6ko3I6p6ifw2uPJ_XQnQc-s88uJmBUpesGT4kycptPg3RBIH0SnsZdFzQgqNTKhebw7-ndcwPY2O_0BjN1MpOLuq15Awoqb7Al7l6C6CJax8crQZ0fNIZMI5O5oMjqflP8hQMxFPoPBHMZxyXDaIM2-F8cK7wwSpQAemyd2qlYm5CQAlx_32BBvbEbn52KZX3MFH-5hs6zYqsU21oAG_bUU6W56sj-HSWnkxPD_T3MLY2_8nZrZfU3LA-3JyijsagtZSgvl7aptYdTA5V0tKVwvqTqQNdHBeL0wgWUy6chw32rAv8IfApvYzzNRdlazXQpWXy5vT6d3aj_osLqWw2pRGPGGdX46eLuyN2XAFHtk8J4m-ZZf_NdgXgdEA6XiXuZPiWJcLpSWBx_f4_d81UN0ERKRtC30tIA5SkPv4WRdHJDeTabvsd6Pk5nv-bJvy4ffQvom_w2FjYzXRchHff3udoLgEoz0vGl3P4NHN-JX_2MGdOhpEkpc77NiSdHFB8yzd9UlTjTAkJP1XrMXCD6wxfNSa18bV7_EYy8H5" height="200" width="auto" /><br><br>7 a.m. - 7 p.m. Cafeteria ]]></description>
+        <styleUrl>#poly-3949AB-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW40vxf8YfjmtfAc83MlebxAwGNXGj7SBQltHe0nR6pxY9PwtRqAy6_FPOGSYgiIAEUypY0Hg1bGvb6YiM1GSqTGXjwBw-EznnN-NY_izPs096CsPuWFBoIa3evoUGkwqee10H6jldLrlBl28Tkv1CJuOls_FbgzLX22nQF6q_REybIJIxkqnXfRsx2rwLeXNMOyHPXZifIigwQ56rrexROyqkbcuxKrKYwYGC-eycKS91HiV2elqdLKTF42NJH1Fxcb1n9voD41_8MBMw0aWvi-3ZjyXYvXDjBPFbfepc4enFAiftJ5-p7r6ko3I6p6ifw2uPJ_XQnQc-s88uJmBUpesGT4kycptPg3RBIH0SnsZdFzQgqNTKhebw7-ndcwPY2O_0BjN1MpOLuq15Awoqb7Al7l6C6CJax8crQZ0fNIZMI5O5oMjqflP8hQMxFPoPBHMZxyXDaIM2-F8cK7wwSpQAemyd2qlYm5CQAlx_32BBvbEbn52KZX3MFH-5hs6zYqsU21oAG_bUU6W56sj-HSWnkxPD_T3MLY2_8nZrZfU3LA-3JyijsagtZSgvl7aptYdTA5V0tKVwvqTqQNdHBeL0wgWUy6chw32rAv8IfApvYzzNRdlazXQpWXy5vT6d3aj_osLqWw2pRGPGGdX46eLuyN2XAFHtk8J4m-ZZf_NdgXgdEA6XiXuZPiWJcLpSWBx_f4_d81UN0ERKRtC30tIA5SkPv4WRdHJDeTabvsd6Pk5nv-bJvy4ffQvom_w2FjYzXRchHff3udoLgEoz0vGl3P4NHN-JX_2MGdOhpEkpc77NiSdHFB8yzd9UlTjTAkJP1XrMXCD6wxfNSa18bV7_EYy8H5</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.90765,27.110465,0
+                -104.907673,27.110283,0
+                -104.907564,27.110271,0
+                -104.907542,27.110458,0
+                -104.90765,27.110465,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio H Biblioteca</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6QmRDcwENVWyCGwORvQS8FQ_LvtRtZtr9XS7hG0vCkTiaa5xAhk9jBc8yBeSksKm1ygIldYruyo58Q-eNO3Qo7nZkz84n8Rn4JPqbgNUNXNsgI1nNNI8oDecXtTKnKA7o2VxR2fmX0ZoJW3jKu-jyAVFH4xrrMkPkvtbIRYTxN_Ti25M5ZxK-53XgnGHtz_YATv1EtrYC-5VqXQar_6t6exuJY2AHwMGk9Bir3FMqphHrWEEckb3CSGw4Sdth1VebHJ3e6DfIHu4HImIKByLntzow8rgjd07jM__y3Rwdi4eKzGwemXH6HVrbG_nEXcaJ8MaS9EoRcLoGSu0TasPdxQgjhBEkxkB44OE8fJgXh506WXDtOur3mmHkrxM7Gd_MySEtSKEeJ4e47dCkpUN9KSNflsd6k_aqzVmbIjx8bNd5iPG1HTej_eN0tyXAgaRvQUrKk0xzChbU0ImDLGU1eGvLQBnmXAHJRe9IzsQINr50FYBrBNt05z9ZKZyWHc2EusyqIfQWM0-MAQbwaX_JxEg6R7ckH4hRVgODc-u6-2khO-figZjHNkdTsh7oEY5msm9UR0tUG3-ed8gGnMWl2Q7VC-xLdKuCV8oLZxleIVMi5kUCfAOvoCQOJas_Wd2t5LQZKMSS9YwmqlfJlBt1Xf03REJBbITVB8zoGEH_4Kl21tenviT_hC5xXdW7nGtVg33Yx2JPpjJ2oW1AZC0rsTNdVs4hW-9DXLUlLYdlQB1ICy01WfAqZl9GdhYXg5-ASaElDeWKfiQfzjwVa2MS2vaPEuQYeRb0lwm60SQhgFQVwM06agevvrijespVwYzvlQ7-K9gUxWRDDqMqKnYLSUCWz0ovh" height="200" width="auto" /><br><br>7 a.m. - 8 p.m. Biblioteca]]></description>
+        <styleUrl>#poly-795548-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6QmRDcwENVWyCGwORvQS8FQ_LvtRtZtr9XS7hG0vCkTiaa5xAhk9jBc8yBeSksKm1ygIldYruyo58Q-eNO3Qo7nZkz84n8Rn4JPqbgNUNXNsgI1nNNI8oDecXtTKnKA7o2VxR2fmX0ZoJW3jKu-jyAVFH4xrrMkPkvtbIRYTxN_Ti25M5ZxK-53XgnGHtz_YATv1EtrYC-5VqXQar_6t6exuJY2AHwMGk9Bir3FMqphHrWEEckb3CSGw4Sdth1VebHJ3e6DfIHu4HImIKByLntzow8rgjd07jM__y3Rwdi4eKzGwemXH6HVrbG_nEXcaJ8MaS9EoRcLoGSu0TasPdxQgjhBEkxkB44OE8fJgXh506WXDtOur3mmHkrxM7Gd_MySEtSKEeJ4e47dCkpUN9KSNflsd6k_aqzVmbIjx8bNd5iPG1HTej_eN0tyXAgaRvQUrKk0xzChbU0ImDLGU1eGvLQBnmXAHJRe9IzsQINr50FYBrBNt05z9ZKZyWHc2EusyqIfQWM0-MAQbwaX_JxEg6R7ckH4hRVgODc-u6-2khO-figZjHNkdTsh7oEY5msm9UR0tUG3-ed8gGnMWl2Q7VC-xLdKuCV8oLZxleIVMi5kUCfAOvoCQOJas_Wd2t5LQZKMSS9YwmqlfJlBt1Xf03REJBbITVB8zoGEH_4Kl21tenviT_hC5xXdW7nGtVg33Yx2JPpjJ2oW1AZC0rsTNdVs4hW-9DXLUlLYdlQB1ICy01WfAqZl9GdhYXg5-ASaElDeWKfiQfzjwVa2MS2vaPEuQYeRb0lwm60SQhgFQVwM06agevvrijespVwYzvlQ7-K9gUxWRDDqMqKnYLSUCWz0ovh</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.907222,27.111034,0
+                -104.907261,27.110751,0
+                -104.90686,27.110702,0
+                -104.906816,27.110983,0
+                -104.907222,27.111034,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio J IGE Industrial</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW6tTwyUJEeyrj9DrDGgHLsws-3thyslIvDPGwIIatHY8zA294J0NG8ymUdwEAYYmhRtzNk-hZoBhl4fTmBiDR1lkgo0lCQ7-xykmZFOr74wAeM_QqDaR8nq5FJJfXIYGtw8RfjVS9TS7rBE5FiKSN0f21Hib6CufOtkqYiLUZJumBozKkMR_0dTS4P4XZKgAP9dLnbUpKla1AiWiQCDILblDCA6EBpyydLuaOkKaXUfq27nSghqyABkpaA__QDNcX9Zj_XGWwLS8T5Wmuk-8_dOnaIm3dAvfLpXzDTs8u0GoStWnqmkSHrJjCd2S2EKseWABfAktvsAHBMXSpy1tO-mLPyEJXVGPp7_F5oB88aN4kHRRNNvAcOVofCtsYowERNHrPqxngs0j035IK18gTZVXbv7ZEVGulyQePYM_2WgJrHZjhYxOch5w4XFOS3VnBZay8Yi7v9sJK9t6wagSz2Tmc6uawdFjDfI20peC_Hgbj_gGiCiXVfdSfff1e0Mx6NbKed5MbRrtvk4PlK_g52ugJwNvoQuOROcvt-HjLXXk627-tIjx3YVPoAGCbkMInPUV_PKwnOQO07xuIYR9ugKPuRrWexh2xW18QevatSEa0xmNzLh8D7CDF34Er0F1KKH-rOve6ev53SEOoFuvyECugE1vuWCuFPwWBURZjxAHU7UC_3i-aQ21ElA1JPM6DvCqVLaJKK33gbJ23HUF9rcBD9vcTpsDVVYc3s3CipQZlAHwnszIlEqxNqk3bHHOhJuuMNQzZwdhSW31DJVgImTGWc_SAqdpJiCgRygiozROHuS23Snrnj1J2NVjMNKDDXGkbWGo5YqCxjPheuq75E01vODG4kl" height="200" width="auto" /><br><br>8 a.m. - 2 p.m. Departamento de ingeniería industrial<br><br><img src="https://lh3.googleusercontent.com/umsh/AK26PW76hFRcsAWegmzT9di15cCZLTHt6wv01yTB9DFuvVdzl__mK8gdxArkIxWcyqUb5RAxGD6kEX21vDE_17thil-W6dcdN4MTshqniAZNFJIKSb4S-ROdLDrZMFLVwI7knwxCvyoWIZMSrIWSVm8pCo2PGCQ-pWrkCNuuumRsYNaPJKjvFPzHUE87AiCi-_lNzXfO3JiuaXiZOfQX5prAKkDAGxbxP40SDzgqeMrrlLpwzJsWclpVWIYuedzJkhzff9VtMD-ujrcM9CbyQLGbpjUOZM5NhBLAhbeSeMWS-WZNqDqgazjy9uPqJouSoYxQqC4RKjYCRdv_RXZBQqH0MX2KUXW3sSCOK23FIz7GKX9Yf5ew-jA2cGs7UF9q4uLwvQSQIAJONqsAO74bTfwCqQiNHNfar_Doi6Awc86BEX2NewKBNPquuyq5G1tHdnTW8TUIQHGNCyhi7jMvoctyrzNeBos7P6MMrU0rqJhivrewZUluf93TTAdF2Hw5aGRKiKYBo5elnQr7HLX1xLJPEep3yqtRgrWVV3d9iWCs4cXK-2tQzlJPVP4pE8L0S3IskiRISwQBDSuiI0lrcHoZnWPVBoV9Cn0L0gQLjoCp3t0awUd8ep_3RVb_G5hsKLG3jZaF2-wv32wPM6vqnRJtQhvreLyF3JPRkYkbAE_zqju5D4o20EQwoS62CfkYdTtFbmlxbhln0agCgWWKh9Rx0c7yjukHwrw2qTvq5GY5va5g8fOQF_ngKnJ6D0X5NuIlRAlurzgCSTIHWISP-bYjrehHl59kVblItfMblkDm4ds_TOBqlLWEc4lKtzHsjfJrfRapDogljBSxQAEsfsZl68EeXXrvCHU" height="200" width="auto" />]]></description>
+        <styleUrl>#poly-FFD600-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW6tTwyUJEeyrj9DrDGgHLsws-3thyslIvDPGwIIatHY8zA294J0NG8ymUdwEAYYmhRtzNk-hZoBhl4fTmBiDR1lkgo0lCQ7-xykmZFOr74wAeM_QqDaR8nq5FJJfXIYGtw8RfjVS9TS7rBE5FiKSN0f21Hib6CufOtkqYiLUZJumBozKkMR_0dTS4P4XZKgAP9dLnbUpKla1AiWiQCDILblDCA6EBpyydLuaOkKaXUfq27nSghqyABkpaA__QDNcX9Zj_XGWwLS8T5Wmuk-8_dOnaIm3dAvfLpXzDTs8u0GoStWnqmkSHrJjCd2S2EKseWABfAktvsAHBMXSpy1tO-mLPyEJXVGPp7_F5oB88aN4kHRRNNvAcOVofCtsYowERNHrPqxngs0j035IK18gTZVXbv7ZEVGulyQePYM_2WgJrHZjhYxOch5w4XFOS3VnBZay8Yi7v9sJK9t6wagSz2Tmc6uawdFjDfI20peC_Hgbj_gGiCiXVfdSfff1e0Mx6NbKed5MbRrtvk4PlK_g52ugJwNvoQuOROcvt-HjLXXk627-tIjx3YVPoAGCbkMInPUV_PKwnOQO07xuIYR9ugKPuRrWexh2xW18QevatSEa0xmNzLh8D7CDF34Er0F1KKH-rOve6ev53SEOoFuvyECugE1vuWCuFPwWBURZjxAHU7UC_3i-aQ21ElA1JPM6DvCqVLaJKK33gbJ23HUF9rcBD9vcTpsDVVYc3s3CipQZlAHwnszIlEqxNqk3bHHOhJuuMNQzZwdhSW31DJVgImTGWc_SAqdpJiCgRygiozROHuS23Snrnj1J2NVjMNKDDXGkbWGo5YqCxjPheuq75E01vODG4kl https://lh3.googleusercontent.com/umsh/AK26PW76hFRcsAWegmzT9di15cCZLTHt6wv01yTB9DFuvVdzl__mK8gdxArkIxWcyqUb5RAxGD6kEX21vDE_17thil-W6dcdN4MTshqniAZNFJIKSb4S-ROdLDrZMFLVwI7knwxCvyoWIZMSrIWSVm8pCo2PGCQ-pWrkCNuuumRsYNaPJKjvFPzHUE87AiCi-_lNzXfO3JiuaXiZOfQX5prAKkDAGxbxP40SDzgqeMrrlLpwzJsWclpVWIYuedzJkhzff9VtMD-ujrcM9CbyQLGbpjUOZM5NhBLAhbeSeMWS-WZNqDqgazjy9uPqJouSoYxQqC4RKjYCRdv_RXZBQqH0MX2KUXW3sSCOK23FIz7GKX9Yf5ew-jA2cGs7UF9q4uLwvQSQIAJONqsAO74bTfwCqQiNHNfar_Doi6Awc86BEX2NewKBNPquuyq5G1tHdnTW8TUIQHGNCyhi7jMvoctyrzNeBos7P6MMrU0rqJhivrewZUluf93TTAdF2Hw5aGRKiKYBo5elnQr7HLX1xLJPEep3yqtRgrWVV3d9iWCs4cXK-2tQzlJPVP4pE8L0S3IskiRISwQBDSuiI0lrcHoZnWPVBoV9Cn0L0gQLjoCp3t0awUd8ep_3RVb_G5hsKLG3jZaF2-wv32wPM6vqnRJtQhvreLyF3JPRkYkbAE_zqju5D4o20EQwoS62CfkYdTtFbmlxbhln0agCgWWKh9Rx0c7yjukHwrw2qTvq5GY5va5g8fOQF_ngKnJ6D0X5NuIlRAlurzgCSTIHWISP-bYjrehHl59kVblItfMblkDm4ds_TOBqlLWEc4lKtzHsjfJrfRapDogljBSxQAEsfsZl68EeXXrvCHU</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.907315,27.110248,0
+                -104.90735,27.11,0
+                -104.907029,27.109958,0
+                -104.90699,27.110208,0
+                -104.907315,27.110248,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio K Electromecánica</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW64O-OYtpi63OgJhiGFk6vKcq6taCO7dxuTC5IWF7WbvHLKcEY940CJzLAs5TqkMu_dmsDZSv63sJD1sj5PY7sJookQVsNgnIqWpuVj8ByrXza6IO8LUjOyruNKEg1Gk6N5watqAApXTmSm5ghm5vSa20oN96h1hvuBSsvm2xcOUzwOKJctRGOMCS6lEy5t66cIiFzDVa2PcU84PpOdwjjcrjVVUn4EKaPLmWcmXWQkbVo-Yeq40H7xxAr-ly9D5qEImFVkr93leOzVnU5dFkO1qwdhyhYRNmF7FSiaSaNQR1IiTUy_gxN24tUZJhQybt3lCkB_w2umZQyzXtbo_tDGntzSOEZGXx3FUQAO2Cobh_-1LXEoBhAqAUVPK5pa9zeJ8tr56uho7LNFW2cQuohKe807yMV_Zan5yGi1BWEd6H5P3RxRG2qyH1dHlhUyZFHVmJb1KyRR7y63ASnfExXKYauxJ40nrNn-0eAeqK76thATC_sfdavG1OwJy4CNHMICq8XX1HsFpDfS3K7OYhzNUctKUs5pmEnYm70FKOpod1JzOjc5v50Ksy-pjGDt7Ob-iHA2i_f33U_aYQuP4FlQubzFRkcnCYMIVktDteGMXAoIhsHrABiwNTWyTM6qoUU-1X_DCKGFc5ml6QweBqlUT--Vn9xv66LEQS4pmnnX_9ZcpM1-FmreJREFPZQpXGd61mOy-3z-D3gnLhUES8qaRb4ox1Etmqo-7H0PjXa8g5CNeLX1Wm9xpkA6z3oJe2LM3U0SfEKa1Q5DIdbzwEjUaGZPueEkK-4yGzgdPE_yN5BOiarZ5cp3B63f1__D6B4PaG6TOi0Uw6jZDTADvgSPgT0k5M-i" height="200" width="auto" /><br><br>8 a.m. - 2 p.m. Departamento ciencias básicas<br>8 a.m. - 2 p.m. Departamento metalmecánica]]></description>
+        <styleUrl>#poly-880E4F-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW64O-OYtpi63OgJhiGFk6vKcq6taCO7dxuTC5IWF7WbvHLKcEY940CJzLAs5TqkMu_dmsDZSv63sJD1sj5PY7sJookQVsNgnIqWpuVj8ByrXza6IO8LUjOyruNKEg1Gk6N5watqAApXTmSm5ghm5vSa20oN96h1hvuBSsvm2xcOUzwOKJctRGOMCS6lEy5t66cIiFzDVa2PcU84PpOdwjjcrjVVUn4EKaPLmWcmXWQkbVo-Yeq40H7xxAr-ly9D5qEImFVkr93leOzVnU5dFkO1qwdhyhYRNmF7FSiaSaNQR1IiTUy_gxN24tUZJhQybt3lCkB_w2umZQyzXtbo_tDGntzSOEZGXx3FUQAO2Cobh_-1LXEoBhAqAUVPK5pa9zeJ8tr56uho7LNFW2cQuohKe807yMV_Zan5yGi1BWEd6H5P3RxRG2qyH1dHlhUyZFHVmJb1KyRR7y63ASnfExXKYauxJ40nrNn-0eAeqK76thATC_sfdavG1OwJy4CNHMICq8XX1HsFpDfS3K7OYhzNUctKUs5pmEnYm70FKOpod1JzOjc5v50Ksy-pjGDt7Ob-iHA2i_f33U_aYQuP4FlQubzFRkcnCYMIVktDteGMXAoIhsHrABiwNTWyTM6qoUU-1X_DCKGFc5ml6QweBqlUT--Vn9xv66LEQS4pmnnX_9ZcpM1-FmreJREFPZQpXGd61mOy-3z-D3gnLhUES8qaRb4ox1Etmqo-7H0PjXa8g5CNeLX1Wm9xpkA6z3oJe2LM3U0SfEKa1Q5DIdbzwEjUaGZPueEkK-4yGzgdPE_yN5BOiarZ5cp3B63f1__D6B4PaG6TOi0Uw6jZDTADvgSPgT0k5M-i</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.906917,27.110648,0
+                -104.9069568,27.1104066,0
+                -104.9066683,27.1103653,0
+                -104.906629,27.110618,0
+                -104.906917,27.110648,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Edificio L</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4T1IGJqmn855rPaIWgYzGVyU6AoRAIB9jbizd7hkMrfXehT3G8XafH3c3DswXghiRWfIAKQw0H3SEIOH7xKP1hr0v0xxPMCDsUrQmcZ-B2nprSG_yexqP9GVIUw8FVvyhVYbg2V4EUoQMIt72m1f5ZEM8DBEpm8vtUT_1QNBIfsR3nvI66lPINxI0Pe5hE5wdeQ4ivZa10xiJXfw8I8WnLsAEubufGVMHYIHTz1Q2LQG6PCjTUWU4vkSBayR2F-23X7fUqZXGCpuDdM3_UBhJzRgRNZkpLvNUFM79oITWtIVQA0T7ADKMyoHx8L6bQNXirMD_UIBEHwWB-l1eWYa_S2_pfSVMiZHjBUzupEHEpuAvNrZc8ryutVm6VRPaZpSwQr9ncL1r4XCXxwqgDwq2VO_hUxeGo2oaIR1-QT1TR44OSxEUbkC3AbA-EG3Nbp7MpTsidKlWT9hKLH8Dr-ObRU5XkSvBw1msyu1_eRfFSZJKQnIXv703_Y8vH7MvjN8wxGDGKGmyAzzn-CwFrKqgv36PQIwUIO0oRkALiHGYi81WkxlpqValq65ezJbwiz414bpS4rEsA0o20TrEMuhIOiiAuEMdkkDwzdAnPuOKqsG-aSAQQbtrERVDalbGzU1czGtn1AKz59i6Qe91EbdIL_n5DB5qpGu6_HTsFMFEpkIUrgu4k5PrDTjY7evGkznjbNEk6JjtgJ6BEPw-P8ItlDXt-I32ZNyazGeYsAIk0LV5xj8L8s1G4DZLPeHg-TzYgP7fCTGLRsRUgQ_8OoszEM8Vm9bSjp-wa2uY9182a1lcZzyqZR7-1B-1YrtDl6wpy1FkLqtl0VlEZ5P19MhL99V5fJSOo" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#poly-1A237E-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4T1IGJqmn855rPaIWgYzGVyU6AoRAIB9jbizd7hkMrfXehT3G8XafH3c3DswXghiRWfIAKQw0H3SEIOH7xKP1hr0v0xxPMCDsUrQmcZ-B2nprSG_yexqP9GVIUw8FVvyhVYbg2V4EUoQMIt72m1f5ZEM8DBEpm8vtUT_1QNBIfsR3nvI66lPINxI0Pe5hE5wdeQ4ivZa10xiJXfw8I8WnLsAEubufGVMHYIHTz1Q2LQG6PCjTUWU4vkSBayR2F-23X7fUqZXGCpuDdM3_UBhJzRgRNZkpLvNUFM79oITWtIVQA0T7ADKMyoHx8L6bQNXirMD_UIBEHwWB-l1eWYa_S2_pfSVMiZHjBUzupEHEpuAvNrZc8ryutVm6VRPaZpSwQr9ncL1r4XCXxwqgDwq2VO_hUxeGo2oaIR1-QT1TR44OSxEUbkC3AbA-EG3Nbp7MpTsidKlWT9hKLH8Dr-ObRU5XkSvBw1msyu1_eRfFSZJKQnIXv703_Y8vH7MvjN8wxGDGKGmyAzzn-CwFrKqgv36PQIwUIO0oRkALiHGYi81WkxlpqValq65ezJbwiz414bpS4rEsA0o20TrEMuhIOiiAuEMdkkDwzdAnPuOKqsG-aSAQQbtrERVDalbGzU1czGtn1AKz59i6Qe91EbdIL_n5DB5qpGu6_HTsFMFEpkIUrgu4k5PrDTjY7evGkznjbNEk6JjtgJ6BEPw-P8ItlDXt-I32ZNyazGeYsAIk0LV5xj8L8s1G4DZLPeHg-TzYgP7fCTGLRsRUgQ_8OoszEM8Vm9bSjp-wa2uY9182a1lcZzyqZR7-1B-1YrtDl6wpy1FkLqtl0VlEZ5P19MhL99V5fJSOo</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.906835,27.111385,0
+                -104.906851,27.111261,0
+                -104.906668,27.111232,0
+                -104.90665,27.111361,0
+                -104.906835,27.111385,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Gimnasio</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AK26PW4x3b6i94KVNFf7XV4ZQuhRgANfUulkoDzFC-TIiPUF89C7RMlI7myunVuR3w8sq8KTbmYuuRUk2zSztF3nApOzVl2fpuAhMrTzSB6ef2hP_PpAv7_vHSng2gi8HA_qonXr0iMq7FshrdytEbDV-9oKxhNI_wwRpLLUJ1eoGafLfh69PDkX5bWO6Hq7xvtnt31nXG1ok8rTNZ5xVjA5cL3TK_vZWxVDERepVEjMJnK_2txnkeGgef7O_lpeB8yYDP1Mvpyun1FAF9Z26rUYxBJZbQLLVMj6CV-B9vlmDHyvA2gO9GKhHTZG-GNWEzRT0Fjfuv3U-0A84jACuuA6KUZMor92H-bM7W0mC5wYBI87chhjsqtRVi985uG63ptqcLcKiTo6bu2P8uaxdC0Ejn3FEowz6MR9AhlIYPHVS-tHAeGJHtpjKc2llK2AzWH_ZrVSI7SeWzV91Z4TCfFdamiSfG2fLv5ThjXpMcznsHZqMrttY6Tf-Kn3tiMuXAkPHXYd_NCcMBycxskHKz8bTtS3d4-Y2i__rBCg-XWlo3D1zJ9lbL9KwHAOll5SXkQBg5NP1HkSGUsKtfWDyu29bDZKU1n4oOiGU3HfSit4YcowSQRLAA9UUxBGDGRaLyyM0dfuSmgwDL_c0VN3jmhz3ISia9lu6bfppZYW4OTLtqNnPARu8yXz4Ni9ThF8zMFRxDdx_KQQDEsl68rqX9CZCOtwSaAHg163fWt7qqyNCqicQA7CVT9IGnOy-q27JSk8VaYPbXFjIsnZZW3MMlfUtmUXg7vUmpAu91w9j8dLl5xmGAeK8rQMaQID3YR5Adv1nFTBtGCVeB2xv8gLn3gECjv_5M49DSdP" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#poly-FF5252-1-76</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AK26PW4x3b6i94KVNFf7XV4ZQuhRgANfUulkoDzFC-TIiPUF89C7RMlI7myunVuR3w8sq8KTbmYuuRUk2zSztF3nApOzVl2fpuAhMrTzSB6ef2hP_PpAv7_vHSng2gi8HA_qonXr0iMq7FshrdytEbDV-9oKxhNI_wwRpLLUJ1eoGafLfh69PDkX5bWO6Hq7xvtnt31nXG1ok8rTNZ5xVjA5cL3TK_vZWxVDERepVEjMJnK_2txnkeGgef7O_lpeB8yYDP1Mvpyun1FAF9Z26rUYxBJZbQLLVMj6CV-B9vlmDHyvA2gO9GKhHTZG-GNWEzRT0Fjfuv3U-0A84jACuuA6KUZMor92H-bM7W0mC5wYBI87chhjsqtRVi985uG63ptqcLcKiTo6bu2P8uaxdC0Ejn3FEowz6MR9AhlIYPHVS-tHAeGJHtpjKc2llK2AzWH_ZrVSI7SeWzV91Z4TCfFdamiSfG2fLv5ThjXpMcznsHZqMrttY6Tf-Kn3tiMuXAkPHXYd_NCcMBycxskHKz8bTtS3d4-Y2i__rBCg-XWlo3D1zJ9lbL9KwHAOll5SXkQBg5NP1HkSGUsKtfWDyu29bDZKU1n4oOiGU3HfSit4YcowSQRLAA9UUxBGDGRaLyyM0dfuSmgwDL_c0VN3jmhz3ISia9lu6bfppZYW4OTLtqNnPARu8yXz4Ni9ThF8zMFRxDdx_KQQDEsl68rqX9CZCOtwSaAHg163fWt7qqyNCqicQA7CVT9IGnOy-q27JSk8VaYPbXFjIsnZZW3MMlfUtmUXg7vUmpAu91w9j8dLl5xmGAeK8rQMaQID3YR5Adv1nFTBtGCVeB2xv8gLn3gECjv_5M49DSdP</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -104.908152,27.110148,0
+                -104.908187,27.109979,0
+                -104.908069,27.10995,0
+                -104.908034,27.110122,0
+                -104.908152,27.110148,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
